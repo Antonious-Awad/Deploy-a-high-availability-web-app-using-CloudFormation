@@ -1,4 +1,4 @@
-# Deploy-a-high-availability-web-app-using-CloudFormation
+# Deploy a high availability web app using CloudFormation
 
 ### [LoadBalancer Link](http://project-lb-45lhnfa6t8xb-1944260802.us-east-1.elb.amazonaws.com)
 ### Infrastructure Diagram:
